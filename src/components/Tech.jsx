@@ -5,6 +5,7 @@ import { SiJavascript } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { FaBootstrap } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
+import { SiRedux } from "react-icons/si";
 import { motion } from "framer-motion"
 
 function Tech() {
@@ -33,6 +34,10 @@ function Tech() {
             <div className='p-5   rounded-3xl shadow bg-slate-950'  >
 
             <SiJavascript className='text-yellow-400'/>
+            </div>
+            <div className='p-5   rounded-3xl shadow bg-slate-950'  >
+
+            <SiRedux className='text-cyan-500'/> 
             </div>
             <div className='p-5   rounded-3xl shadow bg-slate-950'  >
 
